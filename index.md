@@ -6,4 +6,7 @@
 ## Sessions
 
 
-### Session 05 Homework submission #1 - 
+- [ ] ### Session 05 Homework submission #1 - 
+README.md file created and loaded to github# EntryToTechSessions
+
+- [ ] Session 06 - TBA
