@@ -10,3 +10,5 @@
 README.md file created and loaded to github# EntryToTechSessions
 
 - [ ] Session 06 - TBA
+
+- [ ] Session 07 - TBA
